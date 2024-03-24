@@ -21,3 +21,5 @@
             - 대상 등록(add), 로컬저장소로 옮기기(commit(단, commit e message는 "type:subject"형식으로))
     - GitHub에 올리기
         - git push origin main
+
+        <https://github.com/okdo0509/2024-1-Beginner-Study>
