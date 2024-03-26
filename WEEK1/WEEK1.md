@@ -23,4 +23,3 @@
         - git push origin main
 
         <https://github.com/okdo0509/okdo0509>  
-        <https://github.com/okdo0509/2024-1-Beginner-Study>
